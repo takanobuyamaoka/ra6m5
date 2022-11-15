@@ -1,0 +1,78 @@
+{
+    "packages":
+	[
+        {
+            "name": "RA6M5",
+            "maintainer": "Developer",
+            "websiteURL": "https://www.renesas.com/jp/ja/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ek-ra6m5-evaluation-kit-ra6m5-mcu-group",
+            "email": "info@kari.cc",
+            "help":
+			{
+                "online": "http://example.com/"
+            },
+            "platforms":
+			[
+                {
+                    "name": "RA6M5 Boards",
+                    "architecture": "RA6M5",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "url": "file:\\C:\work\RA6M5\RA6M5-1.0.0.tar.bz2",
+                    "archiveFileName": "RA6M5-1.0.0.tar.bz2",
+                    "checksum": "SHA-256:032BD8EB7A7596EF81AF5550D4C30970D8013D415FC1B9A9F2CE7E2B71C63D65",
+                    "size": "2189766",
+                    "boards":
+					[
+                        {
+                            "name": "EK-RA6M5"
+                        }
+                    ],
+                    "toolsDependencies":
+					[
+                        {
+                            "packager": "RA6M5",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "10-2020q4"
+                        },
+                        {
+                            "packager": "RA6M5",
+                            "name": "rfp",
+                            "version": "20211115"
+                        }
+                    ]
+                }
+            ],
+            "tools":
+			[
+                {
+                    "name": "arm-none-eabi-gcc",
+                    "version": "10-2020q4",
+                    "systems":
+					[
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-win32.zip",
+                            "archiveFileName": "gcc-arm-none-eabi-10-2020-q4-major-win32.zip",
+                            "checksum": "MD5:5ee6542a2af847934177bc8fa1294c0d",
+                            "size": "199785259"
+                        }
+                    ]
+                },
+                {
+                    "name": "rfp",
+                    "version": "20211115",
+                    "systems":
+					[
+                        {
+                            "host": "i686-mingw32",
+                            "url": "file:\\C:\work\RA6M5\rfp.tar.bz2",
+                            "archiveFileName": "rfp.tar.bz2",
+                            "checksum": "SHA-256:C8FE321338ABEF0620D2E1C05834B75B9ED038630685ECBB1226C2D0D6957428",
+                            "size": "6350475"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
