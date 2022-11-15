@@ -17,7 +17,7 @@
                     "architecture": "RA6M5",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/sai-tak/arduino-aki-ra6m5/RA6M5-1.0.0.tar.bz2",
+                    "url": "https://github.com/sai-tak/arduino-aki-ra6m5/raw/main/RA6M5-1.0.0.tar.bz2",
                     "archiveFileName": "RA6M5-1.0.0.tar.bz2",
                     "checksum": "SHA-256:032BD8EB7A7596EF81AF5550D4C30970D8013D415FC1B9A9F2CE7E2B71C63D65",
                     "size": "2189766",
@@ -65,7 +65,7 @@
 					[
                         {
                             "host": "i686-mingw32",
-                            "url": "https://github.com/sai-tak/arduino-aki-ra6m5/rfp.tar.bz2",
+                            "url": "https://github.com/sai-tak/arduino-aki-ra6m5/raw/main/rfp.tar.bz2",
                             "archiveFileName": "rfp.tar.bz2",
                             "checksum": "SHA-256:C8FE321338ABEF0620D2E1C05834B75B9ED038630685ECBB1226C2D0D6957428",
                             "size": "6350475"
