@@ -24,7 +24,7 @@
                     "boards":
 					[
                         {
-                            "name": "RA6M5"
+                            "name": "AKI-RA6M5"
                         }
                     ],
                     "toolsDependencies":
