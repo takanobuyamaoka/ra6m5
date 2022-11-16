@@ -13,18 +13,18 @@
             "platforms":
 			[
                 {
-                    "name": "RA6M5 Boards",
+                    "name": "Akizuki Boards",
                     "architecture": "RA6M5",
                     "version": "1.0.0",
                     "category": "Contributed",
                     "url": "https://github.com/sai-tak/arduino-aki-ra6m5/raw/main/RA6M5-1.0.0.tar.bz2",
                     "archiveFileName": "RA6M5-1.0.0.tar.bz2",
-                    "checksum": "SHA-256:032BD8EB7A7596EF81AF5550D4C30970D8013D415FC1B9A9F2CE7E2B71C63D65",
-                    "size": "2189766",
+                    "checksum": "SHA-256:4fa2b1c7721b65fe045b71f7c1bae8077b9058bd62a1ff28742e358f3b4457e6",
+                    "size": "2098253",
                     "boards":
 					[
                         {
-                            "name": "AKI-RA6M5"
+                            "name": "AE-RA6M5"
                         }
                     ],
                     "toolsDependencies":
