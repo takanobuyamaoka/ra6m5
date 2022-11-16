@@ -1,4 +1,4 @@
-name=RA6M5 Boards
+name=Akizuki Boards
 version=4.0.0
 
 # Compile variables

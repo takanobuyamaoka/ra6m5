@@ -34,7 +34,7 @@
 #define COMMON_INIT_H_
 
 #define SHORT_NAME      "RA6M5"
-#define FULL_NAME       ("EK-RA6M5")
+#define FULL_NAME       ("AE-RA6M5")
 #define PART_NUMBER     ("RTK7EKA6M5S00001BE")
 #define DEVICE_NUMBER   ("R7FA6M5BH3CFC")
 

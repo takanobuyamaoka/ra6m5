@@ -1,4 +1,4 @@
-ra6m5.name=EK_RA6M5
+ra6m5.name=AE_RA6M5
 ra6m5.upload.tool=rfp
 ra6m5.upload.protocol=
 ra6m5.upload.maximum_size=2097152
@@ -6,6 +6,6 @@ ra6m5.upload.maximum_data_size=458752
 
 ra6m5.build.mcu=cortex-m33
 ra6m5.build.f_cpu=48000000L
-ra6m5.build.board=EK_RA6M5
+ra6m5.build.board=AE_RA6M5
 ra6m5.build.core=RA6M5
-ra6m5.build.variant=ek_ra6m5
+ra6m5.build.variant=ae_ra6m5
