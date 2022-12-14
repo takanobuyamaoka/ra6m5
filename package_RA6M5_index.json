@@ -17,10 +17,10 @@
                     "architecture": "RA6M5",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/core-sai/arduino-aki-ra6m5/raw/main/RA6M5-1.0.0.zip",
+                    "url": "https://github.com/takanobuyamaoka/ra6m5/raw/main/RA6M5-1.0.0.zip",
                     "archiveFileName": "RA6M5-1.0.0.zip",
-                    "checksum": "SHA-256:0147d4918eb8f8ad4e3688ab175ffc2ffbdc6e5661db503dbc904f2e5c20779d",
-                    "size": "3170822",
+                    "checksum": "SHA-256:5cfba21ec5aaabdfa7a60668dfd4019612d7d79da076d4a5e6d3fd5cedabaf06",
+                    "size": "3071404",
                     "boards":
 					[
                         {
@@ -36,8 +36,8 @@
                         },
                         {
                             "packager": "RA6M5",
-                            "name": "rfp",
-                            "version": "20221115"
+                            "name": "raflasher",
+                            "version": "1.00"
                         }
                     ]
                 }
@@ -59,16 +59,16 @@
                     ]
                 },
                 {
-                    "name": "rfp",
-                    "version": "20221115",
+                    "name": "raflasher",
+                    "version": "1.00",
                     "systems":
 					[
                         {
                             "host": "i686-mingw32",
                             "url": "https://akizukidenshi.com/download/ds/renesas/rfp.zip",
-                            "archiveFileName": "rfp.zip",
-                            "checksum": "SHA-256:de05397cd30018023ff72f81678d596f9083569deb4a6dbbef854449166ba9e6",
-                            "size": "7009113"
+                            "archiveFileName": "raflasher.zip",
+                            "checksum": "SHA-256:93f13b7d482fe0e4a19117061a4b4b78695aa3a061be45755a647b5c9d4268a0",
+                            "size": "7039181"
                         }
                     ]
                 }
